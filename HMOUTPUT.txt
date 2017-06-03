@@ -1,0 +1,12 @@
+INPUT FILE: sm.txt
+
+Loading array...
+****Starting execution of Horspool's matching****
+****Stopping execution****
+Found pattern at index 238910 near: 
+"SADFFIND ME123;.|"
+****************Alg. Execution*************Data Handling****
+Min. Compares:            20039                    496422
+Adds/Subtracts:           99564                    973932
+Execution Time(ns):     2935170                 153326488
+Execution Time(ms):    2.935170                153.326488
